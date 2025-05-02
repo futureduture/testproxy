@@ -1,0 +1,5 @@
+{
+  "name": "finsar/proxy",
+  "description": "Simple proxy for SalesDoubler API",
+  "require": {}
+}
